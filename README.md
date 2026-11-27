@@ -124,6 +124,7 @@ flowchart TD
 
 ## 文档
 
+- [范围判断与自动恢复提案](docs/proposals/adaptive-scope-and-recovery.md)：针对必要改动越界和 rebase 后任务卡住的设计讨论，尚待确认。
 - [设计说明](docs/design.md)：两部分的边界、调度语义、执行与评审机制。
 - [技术设计](docs/tech-design.md)：已确认选择、模块、数据、执行协议及故障恢复方案。
 - [实施路线](docs/roadmap.md)：分阶段实现及验收场景。
